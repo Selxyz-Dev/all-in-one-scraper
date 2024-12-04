@@ -4,6 +4,7 @@
   <title>@selxyzz/all-in-one-scraper</title>
 </head>
 <body>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   <h1 style="text-align: center; font-family: Arial, sans-serif; color: #4CAF50;">@selxyzz/all-in-one-scraper</h1>
   <img src="https://img.shields.io/badge/AUTHOR-Selxyz-green.svg?style=for-the-badge&logo=github">
