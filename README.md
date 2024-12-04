@@ -46,16 +46,14 @@
 
 <details close>
 <summary><strong>🚀 Penggunaan Dalam NodeJS</strong></summary>
-<pre>
-<code>
+```javascript
 const { antaraNews } = require('@selxyzz/all-in-one-scraper');
 
 (async () => {
   const data = await antaraNews('Medan');
   console.log(data);
 })();
-</code>
-</pre>
+```
 </details>
 <hr style="border: 1px solid #ddd;">
 
