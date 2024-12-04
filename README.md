@@ -37,36 +37,19 @@
 </blockquote>
 
 <!-- Install dan Penggunaan -->
-<details close>
-<summary><strong>💾 Installisasi</strong></summary>
-<pre>
-<code>npm i @selxyzz/all-in-one-scraper</code>
-</pre>
-</details>
-
-<details close>
-<summary><strong>🚀 Penggunaan Dalam NodeJS</strong></summary>
-```javascript
-const { antaraNews } = require('@selxyzz/all-in-one-scraper');
-
-(async () => {
-  const data = await antaraNews('Medan');
-  console.log(data);
-})();
-```
+<details>
+  <summary><strong>💾 Installisasi</strong></summary>
+  <pre>
+  <code>npm i @selxyzz/all-in-one-scraper</code>
+  </pre>
 </details>
 <hr style="border: 1px solid #ddd;">
-
-<!-- Developers -->
-<h2 style="font-family: Arial, sans-serif;">👥 Developers</h2>
-<blockquote style="font-size: 16px; font-family: Georgia, serif; color: #555;">
-  <p>Module ini dikembangkan oleh:</p>
-  <p><a href="https://wa.me/6282181938329" style="color: #4CAF50; text-decoration: none;"><strong>Selxyzz</strong></a></p>
-  <p><em>Terima kasih telah menggunakan module kami!</em></p>
-</blockquote>
-
+<!-- Developers --> 
+<h2 style="font-family: Arial, sans-serif;">👥 Developers</h2> 
+<blockquote style="font-size: 16px; font-family: Georgia, serif; color: #555;"> <p>Module ini dikembangkan oleh:</p>
+<p><a href="https://wa.me/6282181938329" style="color: #4CAF50; text-decoration: none;"><strong>Selxyzz</strong></a></p> 
+<p><em>Terima kasih telah menggunakan module kami!</em></p> 
+</blockquote> 
 <!-- Footer Divider -->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#footer)
 
-</body>
-</html>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
